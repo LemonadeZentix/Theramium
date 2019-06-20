@@ -1,0 +1,9 @@
+author = Refusion and Zentix
+version = 1.6
+displayName = [c/ADD8E6:Theramium]
+homepage = 
+hideCode = true
+hideResources = true
+includeSource = false
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true

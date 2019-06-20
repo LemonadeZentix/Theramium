@@ -1,0 +1,5 @@
+C:\Users\Sandu\Documents\My Games\Terraria\ModLoader\Mod Sources\MOD\MOD\MOD\bin\Debug\MOD.exe.config
+C:\Users\Sandu\Documents\My Games\Terraria\ModLoader\Mod Sources\MOD\MOD\bin\Debug\MOD.exe.config
+C:\Users\Sandu\Documents\My Games\Terraria\ModLoader\Mod Sources\MOD\bin\Debug\MOD.exe.config
+C:\Users\Sandu\Desktop\MOD\bin\Debug\MOD.exe.config
+C:\Users\User\Documents\My Games\Terraria\ModLoader\Mod Sources\Theramium\bin\Debug\MOD.exe.config
